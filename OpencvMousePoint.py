@@ -22,7 +22,7 @@ print("Move your mouse over the video to see coordinates. Press 'q' to exit.")
 while cap.isOpened():
     ret, frame = cap.read()
     if not ret:
-        print("Finished playing video or error reading frame.")
+        print("Finished playing video or error reading frame..")
         break
 
   
