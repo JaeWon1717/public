@@ -51,5 +51,5 @@ def merge_coco_files(file_list, output_file):
 
 # Example usage:
 file_list = ["/Users/jaewon/Desktop/NAS_job/job133/133.json", "/Users/jaewon/Desktop/NAS_job/job134/134.json", "/Users/jaewon/Desktop/NAS_job/job135/135.json"]
-output_file = "merged_coco.json"
+output_file = "merged_coco2.json"
 merge_coco_files(file_list, output_file)
